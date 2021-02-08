@@ -1,0 +1,1722 @@
+[
+  {
+    "table": "C" ,
+    "no": "001/C/NBP/2021" ,
+    "tradingDate": "2020-12-31" ,
+    "effectiveDate": "2021-01-04" ,
+    "rates": [
+      {
+        "currency": "dolar amerykański" ,
+        "code": "USD" ,
+        "bid": 3.7208 ,
+        "ask": 3.7960
+      } ,
+      {
+        "currency": "dolar australijski" ,
+        "code": "AUD" ,
+        "bid": 2.8660 ,
+        "ask": 2.9240
+      } ,
+      {
+        "currency": "dolar kanadyjski" ,
+        "code": "CAD" ,
+        "bid": 2.9182 ,
+        "ask": 2.9772
+      } ,
+      {
+        "currency": "euro" ,
+        "code": "EUR" ,
+        "bid": 4.5687 ,
+        "ask": 4.6609
+      } ,
+      {
+        "currency": "forint (Węgry)" ,
+        "code": "HUF" ,
+        "bid": 0.012512 ,
+        "ask": 0.012764
+      } ,
+      {
+        "currency": "frank szwajcarski" ,
+        "code": "CHF" ,
+        "bid": 4.2215 ,
+        "ask": 4.3067
+      } ,
+      {
+        "currency": "funt szterling" ,
+        "code": "GBP" ,
+        "bid": 5.0814 ,
+        "ask": 5.1840
+      } ,
+      {
+        "currency": "jen (Japonia)" ,
+        "code": "JPY" ,
+        "bid": 0.036119 ,
+        "ask": 0.036849
+      } ,
+      {
+        "currency": "korona czeska" ,
+        "code": "CZK" ,
+        "bid": 0.1735 ,
+        "ask": 0.1771
+      } ,
+      {
+        "currency": "korona duńska" ,
+        "code": "DKK" ,
+        "bid": 0.6140 ,
+        "ask": 0.6264
+      } ,
+      {
+        "currency": "korona norweska" ,
+        "code": "NOK" ,
+        "bid": 0.4356 ,
+        "ask": 0.4444
+      } ,
+      {
+        "currency": "korona szwedzka" ,
+        "code": "SEK" ,
+        "bid": 0.4552 ,
+        "ask": 0.4644
+      } ,
+      {
+        "currency": "SDR (MFW)" ,
+        "code": "XDR" ,
+        "bid": 5.4086 ,
+        "ask": 5.5178
+      }
+    ]
+  } ,
+  {
+    "table": "C" ,
+    "no": "002/C/NBP/2021" ,
+    "tradingDate": "2021-01-04" ,
+    "effectiveDate": "2021-01-05" ,
+    "rates": [
+      {
+        "currency": "dolar amerykański" ,
+        "code": "USD" ,
+        "bid": 3.6687 ,
+        "ask": 3.7429
+      } ,
+      {
+        "currency": "dolar australijski" ,
+        "code": "AUD" ,
+        "bid": 2.8269 ,
+        "ask": 2.8841
+      } ,
+      {
+        "currency": "dolar kanadyjski" ,
+        "code": "CAD" ,
+        "bid": 2.8870 ,
+        "ask": 2.9454
+      } ,
+      {
+        "currency": "euro" ,
+        "code": "EUR" ,
+        "bid": 4.5087 ,
+        "ask": 4.5997
+      } ,
+      {
+        "currency": "forint (Węgry)" ,
+        "code": "HUF" ,
+        "bid": 0.012473 ,
+        "ask": 0.012725
+      } ,
+      {
+        "currency": "frank szwajcarski" ,
+        "code": "CHF" ,
+        "bid": 4.1652 ,
+        "ask": 4.2494
+      } ,
+      {
+        "currency": "funt szterling" ,
+        "code": "GBP" ,
+        "bid": 4.9925 ,
+        "ask": 5.0933
+      } ,
+      {
+        "currency": "jen (Japonia)" ,
+        "code": "JPY" ,
+        "bid": 0.0356 ,
+        "ask": 0.03632
+      } ,
+      {
+        "currency": "korona czeska" ,
+        "code": "CZK" ,
+        "bid": 0.1727 ,
+        "ask": 0.1761
+      } ,
+      {
+        "currency": "korona duńska" ,
+        "code": "DKK" ,
+        "bid": 0.6060 ,
+        "ask": 0.6182
+      } ,
+      {
+        "currency": "korona norweska" ,
+        "code": "NOK" ,
+        "bid": 0.4318 ,
+        "ask": 0.4406
+      } ,
+      {
+        "currency": "korona szwedzka" ,
+        "code": "SEK" ,
+        "bid": 0.4470 ,
+        "ask": 0.4560
+      } ,
+      {
+        "currency": "SDR (MFW)" ,
+        "code": "XDR" ,
+        "bid": 5.3376 ,
+        "ask": 5.4454
+      }
+    ]
+  } ,
+  {
+    "table": "C" ,
+    "no": "003/C/NBP/2021" ,
+    "tradingDate": "2021-01-05" ,
+    "effectiveDate": "2021-01-07" ,
+    "rates": [
+      {
+        "currency": "dolar amerykański" ,
+        "code": "USD" ,
+        "bid": 3.6671 ,
+        "ask": 3.7411
+      } ,
+      {
+        "currency": "dolar australijski" ,
+        "code": "AUD" ,
+        "bid": 2.8275 ,
+        "ask": 2.8847
+      } ,
+      {
+        "currency": "dolar kanadyjski" ,
+        "code": "CAD" ,
+        "bid": 2.8778 ,
+        "ask": 2.9360
+      } ,
+      {
+        "currency": "euro" ,
+        "code": "EUR" ,
+        "bid": 4.4975 ,
+        "ask": 4.5883
+      } ,
+      {
+        "currency": "forint (Węgry)" ,
+        "code": "HUF" ,
+        "bid": 0.012492 ,
+        "ask": 0.012744
+      } ,
+      {
+        "currency": "frank szwajcarski" ,
+        "code": "CHF" ,
+        "bid": 4.1664 ,
+        "ask": 4.2506
+      } ,
+      {
+        "currency": "funt szterling" ,
+        "code": "GBP" ,
+        "bid": 4.9869 ,
+        "ask": 5.0877
+      } ,
+      {
+        "currency": "jen (Japonia)" ,
+        "code": "JPY" ,
+        "bid": 0.035665 ,
+        "ask": 0.036385
+      } ,
+      {
+        "currency": "korona czeska" ,
+        "code": "CZK" ,
+        "bid": 0.1716 ,
+        "ask": 0.1750
+      } ,
+      {
+        "currency": "korona duńska" ,
+        "code": "DKK" ,
+        "bid": 0.6046 ,
+        "ask": 0.6168
+      } ,
+      {
+        "currency": "korona norweska" ,
+        "code": "NOK" ,
+        "bid": 0.4299 ,
+        "ask": 0.4385
+      } ,
+      {
+        "currency": "korona szwedzka" ,
+        "code": "SEK" ,
+        "bid": 0.4471 ,
+        "ask": 0.4561
+      } ,
+      {
+        "currency": "SDR (MFW)" ,
+        "code": "XDR" ,
+        "bid": 5.2992 ,
+        "ask": 5.4062
+      }
+    ]
+  } ,
+  {
+    "table": "C" ,
+    "no": "004/C/NBP/2021" ,
+    "tradingDate": "2021-01-07" ,
+    "effectiveDate": "2021-01-08" ,
+    "rates": [
+      {
+        "currency": "dolar amerykański" ,
+        "code": "USD" ,
+        "bid": 3.6382 ,
+        "ask": 3.7118
+      } ,
+      {
+        "currency": "dolar australijski" ,
+        "code": "AUD" ,
+        "bid": 2.8140 ,
+        "ask": 2.8708
+      } ,
+      {
+        "currency": "dolar kanadyjski" ,
+        "code": "CAD" ,
+        "bid": 2.8611 ,
+        "ask": 2.9189
+      } ,
+      {
+        "currency": "euro" ,
+        "code": "EUR" ,
+        "bid": 4.4601 ,
+        "ask": 4.5503
+      } ,
+      {
+        "currency": "forint (Węgry)" ,
+        "code": "HUF" ,
+        "bid": 0.012459 ,
+        "ask": 0.012711
+      } ,
+      {
+        "currency": "frank szwajcarski" ,
+        "code": "CHF" ,
+        "bid": 4.1106 ,
+        "ask": 4.1936
+      } ,
+      {
+        "currency": "funt szterling" ,
+        "code": "GBP" ,
+        "bid": 4.9354 ,
+        "ask": 5.0352
+      } ,
+      {
+        "currency": "jen (Japonia)" ,
+        "code": "JPY" ,
+        "bid": 0.035043 ,
+        "ask": 0.035751
+      } ,
+      {
+        "currency": "korona czeska" ,
+        "code": "CZK" ,
+        "bid": 0.1702 ,
+        "ask": 0.1736
+      } ,
+      {
+        "currency": "korona duńska" ,
+        "code": "DKK" ,
+        "bid": 0.5996 ,
+        "ask": 0.6118
+      } ,
+      {
+        "currency": "korona norweska" ,
+        "code": "NOK" ,
+        "bid": 0.4310 ,
+        "ask": 0.4398
+      } ,
+      {
+        "currency": "korona szwedzka" ,
+        "code": "SEK" ,
+        "bid": 0.4432 ,
+        "ask": 0.4522
+      } ,
+      {
+        "currency": "SDR (MFW)" ,
+        "code": "XDR" ,
+        "bid": 5.2441 ,
+        "ask": 5.3501
+      }
+    ]
+  } ,
+  {
+    "table": "C" ,
+    "no": "005/C/NBP/2021" ,
+    "tradingDate": "2021-01-08" ,
+    "effectiveDate": "2021-01-11" ,
+    "rates": [
+      {
+        "currency": "dolar amerykański" ,
+        "code": "USD" ,
+        "bid": 3.6492 ,
+        "ask": 3.7230
+      } ,
+      {
+        "currency": "dolar australijski" ,
+        "code": "AUD" ,
+        "bid": 2.8343 ,
+        "ask": 2.8915
+      } ,
+      {
+        "currency": "dolar kanadyjski" ,
+        "code": "CAD" ,
+        "bid": 2.8724 ,
+        "ask": 2.9304
+      } ,
+      {
+        "currency": "euro" ,
+        "code": "EUR" ,
+        "bid": 4.4696 ,
+        "ask": 4.5598
+      } ,
+      {
+        "currency": "forint (Węgry)" ,
+        "code": "HUF" ,
+        "bid": 0.012433 ,
+        "ask": 0.012685
+      } ,
+      {
+        "currency": "frank szwajcarski" ,
+        "code": "CHF" ,
+        "bid": 4.1241 ,
+        "ask": 4.2075
+      } ,
+      {
+        "currency": "funt szterling" ,
+        "code": "GBP" ,
+        "bid": 4.9568 ,
+        "ask": 5.0570
+      } ,
+      {
+        "currency": "jen (Japonia)" ,
+        "code": "JPY" ,
+        "bid": 0.035118 ,
+        "ask": 0.035828
+      } ,
+      {
+        "currency": "korona czeska" ,
+        "code": "CZK" ,
+        "bid": 0.1709 ,
+        "ask": 0.1743
+      } ,
+      {
+        "currency": "korona duńska" ,
+        "code": "DKK" ,
+        "bid": 0.6010 ,
+        "ask": 0.6132
+      } ,
+      {
+        "currency": "korona norweska" ,
+        "code": "NOK" ,
+        "bid": 0.4345 ,
+        "ask": 0.4433
+      } ,
+      {
+        "currency": "korona szwedzka" ,
+        "code": "SEK" ,
+        "bid": 0.4441 ,
+        "ask": 0.4531
+      } ,
+      {
+        "currency": "SDR (MFW)" ,
+        "code": "XDR" ,
+        "bid": 5.2620 ,
+        "ask": 5.3684
+      }
+    ]
+  } ,
+  {
+    "table": "C" ,
+    "no": "006/C/NBP/2021" ,
+    "tradingDate": "2021-01-11" ,
+    "effectiveDate": "2021-01-12" ,
+    "rates": [
+      {
+        "currency": "dolar amerykański" ,
+        "code": "USD" ,
+        "bid": 3.6945 ,
+        "ask": 3.7691
+      } ,
+      {
+        "currency": "dolar australijski" ,
+        "code": "AUD" ,
+        "bid": 2.8334 ,
+        "ask": 2.8906
+      } ,
+      {
+        "currency": "dolar kanadyjski" ,
+        "code": "CAD" ,
+        "bid": 2.8818 ,
+        "ask": 2.9400
+      } ,
+      {
+        "currency": "euro" ,
+        "code": "EUR" ,
+        "bid": 4.4842 ,
+        "ask": 4.5748
+      } ,
+      {
+        "currency": "forint (Węgry)" ,
+        "code": "HUF" ,
+        "bid": 0.012413 ,
+        "ask": 0.012663
+      } ,
+      {
+        "currency": "frank szwajcarski" ,
+        "code": "CHF" ,
+        "bid": 4.1437 ,
+        "ask": 4.2275
+      } ,
+      {
+        "currency": "funt szterling" ,
+        "code": "GBP" ,
+        "bid": 4.9711 ,
+        "ask": 5.0715
+      } ,
+      {
+        "currency": "jen (Japonia)" ,
+        "code": "JPY" ,
+        "bid": 0.035399 ,
+        "ask": 0.036115
+      } ,
+      {
+        "currency": "korona czeska" ,
+        "code": "CZK" ,
+        "bid": 0.1707 ,
+        "ask": 0.1741
+      } ,
+      {
+        "currency": "korona duńska" ,
+        "code": "DKK" ,
+        "bid": 0.6030 ,
+        "ask": 0.6152
+      } ,
+      {
+        "currency": "korona norweska" ,
+        "code": "NOK" ,
+        "bid": 0.4308 ,
+        "ask": 0.4396
+      } ,
+      {
+        "currency": "korona szwedzka" ,
+        "code": "SEK" ,
+        "bid": 0.4441 ,
+        "ask": 0.4531
+      } ,
+      {
+        "currency": "SDR (MFW)" ,
+        "code": "XDR" ,
+        "bid": 5.2902 ,
+        "ask": 5.3970
+      }
+    ]
+  } ,
+  {
+    "table": "C" ,
+    "no": "007/C/NBP/2021" ,
+    "tradingDate": "2021-01-12" ,
+    "effectiveDate": "2021-01-13" ,
+    "rates": [
+      {
+        "currency": "dolar amerykański" ,
+        "code": "USD" ,
+        "bid": 3.6861 ,
+        "ask": 3.7605
+      } ,
+      {
+        "currency": "dolar australijski" ,
+        "code": "AUD" ,
+        "bid": 2.8423 ,
+        "ask": 2.8997
+      } ,
+      {
+        "currency": "dolar kanadyjski" ,
+        "code": "CAD" ,
+        "bid": 2.8851 ,
+        "ask": 2.9433
+      } ,
+      {
+        "currency": "euro" ,
+        "code": "EUR" ,
+        "bid": 4.4790 ,
+        "ask": 4.5694
+      } ,
+      {
+        "currency": "forint (Węgry)" ,
+        "code": "HUF" ,
+        "bid": 0.012457 ,
+        "ask": 0.012709
+      } ,
+      {
+        "currency": "frank szwajcarski" ,
+        "code": "CHF" ,
+        "bid": 4.1420 ,
+        "ask": 4.2256
+      } ,
+      {
+        "currency": "funt szterling" ,
+        "code": "GBP" ,
+        "bid": 5.0123 ,
+        "ask": 5.1135
+      } ,
+      {
+        "currency": "jen (Japonia)" ,
+        "code": "JPY" ,
+        "bid": 0.035345 ,
+        "ask": 0.036059
+      } ,
+      {
+        "currency": "korona czeska" ,
+        "code": "CZK" ,
+        "bid": 0.1710 ,
+        "ask": 0.1744
+      } ,
+      {
+        "currency": "korona duńska" ,
+        "code": "DKK" ,
+        "bid": 0.6021 ,
+        "ask": 0.6143
+      } ,
+      {
+        "currency": "korona norweska" ,
+        "code": "NOK" ,
+        "bid": 0.4319 ,
+        "ask": 0.4407
+      } ,
+      {
+        "currency": "korona szwedzka" ,
+        "code": "SEK" ,
+        "bid": 0.4439 ,
+        "ask": 0.4529
+      } ,
+      {
+        "currency": "SDR (MFW)" ,
+        "code": "XDR" ,
+        "bid": 5.3036 ,
+        "ask": 5.4108
+      }
+    ]
+  } ,
+  {
+    "table": "C" ,
+    "no": "008/C/NBP/2021" ,
+    "tradingDate": "2021-01-13" ,
+    "effectiveDate": "2021-01-14" ,
+    "rates": [
+      {
+        "currency": "dolar amerykański" ,
+        "code": "USD" ,
+        "bid": 3.6821 ,
+        "ask": 3.7565
+      } ,
+      {
+        "currency": "dolar australijski" ,
+        "code": "AUD" ,
+        "bid": 2.8478 ,
+        "ask": 2.9054
+      } ,
+      {
+        "currency": "dolar kanadyjski" ,
+        "code": "CAD" ,
+        "bid": 2.8896 ,
+        "ask": 2.9480
+      } ,
+      {
+        "currency": "euro" ,
+        "code": "EUR" ,
+        "bid": 4.4788 ,
+        "ask": 4.5692
+      } ,
+      {
+        "currency": "forint (Węgry)" ,
+        "code": "HUF" ,
+        "bid": 0.012432 ,
+        "ask": 0.012684
+      } ,
+      {
+        "currency": "frank szwajcarski" ,
+        "code": "CHF" ,
+        "bid": 4.1491 ,
+        "ask": 4.2329
+      } ,
+      {
+        "currency": "funt szterling" ,
+        "code": "GBP" ,
+        "bid": 5.0249 ,
+        "ask": 5.1265
+      } ,
+      {
+        "currency": "jen (Japonia)" ,
+        "code": "JPY" ,
+        "bid": 0.035447 ,
+        "ask": 0.036163
+      } ,
+      {
+        "currency": "korona czeska" ,
+        "code": "CZK" ,
+        "bid": 0.1712 ,
+        "ask": 0.1746
+      } ,
+      {
+        "currency": "korona duńska" ,
+        "code": "DKK" ,
+        "bid": 0.6020 ,
+        "ask": 0.6142
+      } ,
+      {
+        "currency": "korona norweska" ,
+        "code": "NOK" ,
+        "bid": 0.4333 ,
+        "ask": 0.4421
+      } ,
+      {
+        "currency": "korona szwedzka" ,
+        "code": "SEK" ,
+        "bid": 0.4415 ,
+        "ask": 0.4505
+      } ,
+      {
+        "currency": "SDR (MFW)" ,
+        "code": "XDR" ,
+        "bid": 5.3067 ,
+        "ask": 5.4139
+      }
+    ]
+  } ,
+  {
+    "table": "C" ,
+    "no": "009/C/NBP/2021" ,
+    "tradingDate": "2021-01-14" ,
+    "effectiveDate": "2021-01-15" ,
+    "rates": [
+      {
+        "currency": "dolar amerykański" ,
+        "code": "USD" ,
+        "bid": 3.7115 ,
+        "ask": 3.7865
+      } ,
+      {
+        "currency": "dolar australijski" ,
+        "code": "AUD" ,
+        "bid": 2.8740 ,
+        "ask": 2.9320
+      } ,
+      {
+        "currency": "dolar kanadyjski" ,
+        "code": "CAD" ,
+        "bid": 2.9270 ,
+        "ask": 2.9862
+      } ,
+      {
+        "currency": "euro" ,
+        "code": "EUR" ,
+        "bid": 4.4973 ,
+        "ask": 4.5881
+      } ,
+      {
+        "currency": "forint (Węgry)" ,
+        "code": "HUF" ,
+        "bid": 0.012512 ,
+        "ask": 0.012764
+      } ,
+      {
+        "currency": "frank szwajcarski" ,
+        "code": "CHF" ,
+        "bid": 4.1713 ,
+        "ask": 4.2555
+      } ,
+      {
+        "currency": "funt szterling" ,
+        "code": "GBP" ,
+        "bid": 5.0668 ,
+        "ask": 5.1692
+      } ,
+      {
+        "currency": "jen (Japonia)" ,
+        "code": "JPY" ,
+        "bid": 0.035656 ,
+        "ask": 0.036376
+      } ,
+      {
+        "currency": "korona czeska" ,
+        "code": "CZK" ,
+        "bid": 0.1717 ,
+        "ask": 0.1751
+      } ,
+      {
+        "currency": "korona duńska" ,
+        "code": "DKK" ,
+        "bid": 0.6046 ,
+        "ask": 0.6168
+      } ,
+      {
+        "currency": "korona norweska" ,
+        "code": "NOK" ,
+        "bid": 0.4363 ,
+        "ask": 0.4451
+      } ,
+      {
+        "currency": "korona szwedzka" ,
+        "code": "SEK" ,
+        "bid": 0.4442 ,
+        "ask": 0.4532
+      } ,
+      {
+        "currency": "SDR (MFW)" ,
+        "code": "XDR" ,
+        "bid": 5.3311 ,
+        "ask": 5.4389
+      }
+    ]
+  } ,
+  {
+    "table": "C" ,
+    "no": "010/C/NBP/2021" ,
+    "tradingDate": "2021-01-15" ,
+    "effectiveDate": "2021-01-18" ,
+    "rates": [
+      {
+        "currency": "dolar amerykański" ,
+        "code": "USD" ,
+        "bid": 3.7158 ,
+        "ask": 3.7908
+      } ,
+      {
+        "currency": "dolar australijski" ,
+        "code": "AUD" ,
+        "bid": 2.8645 ,
+        "ask": 2.9223
+      } ,
+      {
+        "currency": "dolar kanadyjski" ,
+        "code": "CAD" ,
+        "bid": 2.9190 ,
+        "ask": 2.9780
+      } ,
+      {
+        "currency": "euro" ,
+        "code": "EUR" ,
+        "bid": 4.4954 ,
+        "ask": 4.5862
+      } ,
+      {
+        "currency": "forint (Węgry)" ,
+        "code": "HUF" ,
+        "bid": 0.012476 ,
+        "ask": 0.012728
+      } ,
+      {
+        "currency": "frank szwajcarski" ,
+        "code": "CHF" ,
+        "bid": 4.1781 ,
+        "ask": 4.2625
+      } ,
+      {
+        "currency": "funt szterling" ,
+        "code": "GBP" ,
+        "bid": 5.0539 ,
+        "ask": 5.1559
+      } ,
+      {
+        "currency": "jen (Japonia)" ,
+        "code": "JPY" ,
+        "bid": 0.035772 ,
+        "ask": 0.036494
+      } ,
+      {
+        "currency": "korona czeska" ,
+        "code": "CZK" ,
+        "bid": 0.1717 ,
+        "ask": 0.1751
+      } ,
+      {
+        "currency": "korona duńska" ,
+        "code": "DKK" ,
+        "bid": 0.6044 ,
+        "ask": 0.6166
+      } ,
+      {
+        "currency": "korona norweska" ,
+        "code": "NOK" ,
+        "bid": 0.4356 ,
+        "ask": 0.4444
+      } ,
+      {
+        "currency": "korona szwedzka" ,
+        "code": "SEK" ,
+        "bid": 0.4431 ,
+        "ask": 0.4521
+      } ,
+      {
+        "currency": "SDR (MFW)" ,
+        "code": "XDR" ,
+        "bid": 5.3457 ,
+        "ask": 5.4537
+      }
+    ]
+  } ,
+  {
+    "table": "C" ,
+    "no": "011/C/NBP/2021" ,
+    "tradingDate": "2021-01-18" ,
+    "effectiveDate": "2021-01-19" ,
+    "rates": [
+      {
+        "currency": "dolar amerykański" ,
+        "code": "USD" ,
+        "bid": 3.7161 ,
+        "ask": 3.7911
+      } ,
+      {
+        "currency": "dolar australijski" ,
+        "code": "AUD" ,
+        "bid": 2.8565 ,
+        "ask": 2.9143
+      } ,
+      {
+        "currency": "dolar kanadyjski" ,
+        "code": "CAD" ,
+        "bid": 2.9111 ,
+        "ask": 2.9699
+      } ,
+      {
+        "currency": "euro" ,
+        "code": "EUR" ,
+        "bid": 4.4861 ,
+        "ask": 4.5767
+      } ,
+      {
+        "currency": "forint (Węgry)" ,
+        "code": "HUF" ,
+        "bid": 0.012464 ,
+        "ask": 0.012716
+      } ,
+      {
+        "currency": "frank szwajcarski" ,
+        "code": "CHF" ,
+        "bid": 4.1714 ,
+        "ask": 4.2556
+      } ,
+      {
+        "currency": "funt szterling" ,
+        "code": "GBP" ,
+        "bid": 5.0411 ,
+        "ask": 5.1429
+      } ,
+      {
+        "currency": "jen (Japonia)" ,
+        "code": "JPY" ,
+        "bid": 0.035826 ,
+        "ask": 0.03655
+      } ,
+      {
+        "currency": "korona czeska" ,
+        "code": "CZK" ,
+        "bid": 0.1715 ,
+        "ask": 0.1749
+      } ,
+      {
+        "currency": "korona duńska" ,
+        "code": "DKK" ,
+        "bid": 0.6030 ,
+        "ask": 0.6152
+      } ,
+      {
+        "currency": "korona norweska" ,
+        "code": "NOK" ,
+        "bid": 0.4326 ,
+        "ask": 0.4414
+      } ,
+      {
+        "currency": "korona szwedzka" ,
+        "code": "SEK" ,
+        "bid": 0.4423 ,
+        "ask": 0.4513
+      } ,
+      {
+        "currency": "SDR (MFW)" ,
+        "code": "XDR" ,
+        "bid": 5.3302 ,
+        "ask": 5.4378
+      }
+    ]
+  } ,
+  {
+    "table": "C" ,
+    "no": "012/C/NBP/2021" ,
+    "tradingDate": "2021-01-19" ,
+    "effectiveDate": "2021-01-20" ,
+    "rates": [
+      {
+        "currency": "dolar amerykański" ,
+        "code": "USD" ,
+        "bid": 3.7000 ,
+        "ask": 3.7748
+      } ,
+      {
+        "currency": "dolar australijski" ,
+        "code": "AUD" ,
+        "bid": 2.8501 ,
+        "ask": 2.9077
+      } ,
+      {
+        "currency": "dolar kanadyjski" ,
+        "code": "CAD" ,
+        "bid": 2.9006 ,
+        "ask": 2.9592
+      } ,
+      {
+        "currency": "euro" ,
+        "code": "EUR" ,
+        "bid": 4.4865 ,
+        "ask": 4.5771
+      } ,
+      {
+        "currency": "forint (Węgry)" ,
+        "code": "HUF" ,
+        "bid": 0.012526 ,
+        "ask": 0.01278
+      } ,
+      {
+        "currency": "frank szwajcarski" ,
+        "code": "CHF" ,
+        "bid": 4.1659 ,
+        "ask": 4.2501
+      } ,
+      {
+        "currency": "funt szterling" ,
+        "code": "GBP" ,
+        "bid": 5.0370 ,
+        "ask": 5.1388
+      } ,
+      {
+        "currency": "jen (Japonia)" ,
+        "code": "JPY" ,
+        "bid": 0.035572 ,
+        "ask": 0.03629
+      } ,
+      {
+        "currency": "korona czeska" ,
+        "code": "CZK" ,
+        "bid": 0.1714 ,
+        "ask": 0.1748
+      } ,
+      {
+        "currency": "korona duńska" ,
+        "code": "DKK" ,
+        "bid": 0.6030 ,
+        "ask": 0.6152
+      } ,
+      {
+        "currency": "korona norweska" ,
+        "code": "NOK" ,
+        "bid": 0.4328 ,
+        "ask": 0.4416
+      } ,
+      {
+        "currency": "korona szwedzka" ,
+        "code": "SEK" ,
+        "bid": 0.4429 ,
+        "ask": 0.4519
+      } ,
+      {
+        "currency": "SDR (MFW)" ,
+        "code": "XDR" ,
+        "bid": 5.3307 ,
+        "ask": 5.4383
+      }
+    ]
+  } ,
+  {
+    "table": "C" ,
+    "no": "013/C/NBP/2021" ,
+    "tradingDate": "2021-01-20" ,
+    "effectiveDate": "2021-01-21" ,
+    "rates": [
+      {
+        "currency": "dolar amerykański" ,
+        "code": "USD" ,
+        "bid": 3.7135 ,
+        "ask": 3.7885
+      } ,
+      {
+        "currency": "dolar australijski" ,
+        "code": "AUD" ,
+        "bid": 2.8702 ,
+        "ask": 2.9282
+      } ,
+      {
+        "currency": "dolar kanadyjski" ,
+        "code": "CAD" ,
+        "bid": 2.9248 ,
+        "ask": 2.9838
+      } ,
+      {
+        "currency": "euro" ,
+        "code": "EUR" ,
+        "bid": 4.4863 ,
+        "ask": 4.5769
+      } ,
+      {
+        "currency": "forint (Węgry)" ,
+        "code": "HUF" ,
+        "bid": 0.012554 ,
+        "ask": 0.012808
+      } ,
+      {
+        "currency": "frank szwajcarski" ,
+        "code": "CHF" ,
+        "bid": 4.1638 ,
+        "ask": 4.2480
+      } ,
+      {
+        "currency": "funt szterling" ,
+        "code": "GBP" ,
+        "bid": 5.0643 ,
+        "ask": 5.1667
+      } ,
+      {
+        "currency": "jen (Japonia)" ,
+        "code": "JPY" ,
+        "bid": 0.035785 ,
+        "ask": 0.036507
+      } ,
+      {
+        "currency": "korona czeska" ,
+        "code": "CZK" ,
+        "bid": 0.1718 ,
+        "ask": 0.1752
+      } ,
+      {
+        "currency": "korona duńska" ,
+        "code": "DKK" ,
+        "bid": 0.6031 ,
+        "ask": 0.6153
+      } ,
+      {
+        "currency": "korona norweska" ,
+        "code": "NOK" ,
+        "bid": 0.4353 ,
+        "ask": 0.4441
+      } ,
+      {
+        "currency": "korona szwedzka" ,
+        "code": "SEK" ,
+        "bid": 0.4429 ,
+        "ask": 0.4519
+      } ,
+      {
+        "currency": "SDR (MFW)" ,
+        "code": "XDR" ,
+        "bid": 5.3246 ,
+        "ask": 5.4322
+      }
+    ]
+  } ,
+  {
+    "table": "C" ,
+    "no": "014/C/NBP/2021" ,
+    "tradingDate": "2021-01-21" ,
+    "effectiveDate": "2021-01-22" ,
+    "rates": [
+      {
+        "currency": "dolar amerykański" ,
+        "code": "USD" ,
+        "bid": 3.6932 ,
+        "ask": 3.7678
+      } ,
+      {
+        "currency": "dolar australijski" ,
+        "code": "AUD" ,
+        "bid": 2.8661 ,
+        "ask": 2.9241
+      } ,
+      {
+        "currency": "dolar kanadyjski" ,
+        "code": "CAD" ,
+        "bid": 2.9275 ,
+        "ask": 2.9867
+      } ,
+      {
+        "currency": "euro" ,
+        "code": "EUR" ,
+        "bid": 4.4872 ,
+        "ask": 4.5778
+      } ,
+      {
+        "currency": "forint (Węgry)" ,
+        "code": "HUF" ,
+        "bid": 0.012556 ,
+        "ask": 0.01281
+      } ,
+      {
+        "currency": "frank szwajcarski" ,
+        "code": "CHF" ,
+        "bid": 4.1691 ,
+        "ask": 4.2533
+      } ,
+      {
+        "currency": "funt szterling" ,
+        "code": "GBP" ,
+        "bid": 5.0691 ,
+        "ask": 5.1715
+      } ,
+      {
+        "currency": "jen (Japonia)" ,
+        "code": "JPY" ,
+        "bid": 0.035658 ,
+        "ask": 0.036378
+      } ,
+      {
+        "currency": "korona czeska" ,
+        "code": "CZK" ,
+        "bid": 0.1719 ,
+        "ask": 0.1753
+      } ,
+      {
+        "currency": "korona duńska" ,
+        "code": "DKK" ,
+        "bid": 0.6031 ,
+        "ask": 0.6153
+      } ,
+      {
+        "currency": "korona norweska" ,
+        "code": "NOK" ,
+        "bid": 0.4376 ,
+        "ask": 0.4464
+      } ,
+      {
+        "currency": "korona szwedzka" ,
+        "code": "SEK" ,
+        "bid": 0.4448 ,
+        "ask": 0.4538
+      } ,
+      {
+        "currency": "SDR (MFW)" ,
+        "code": "XDR" ,
+        "bid": 5.3410 ,
+        "ask": 5.4488
+      }
+    ]
+  } ,
+  {
+    "table": "C" ,
+    "no": "015/C/NBP/2021" ,
+    "tradingDate": "2021-01-22" ,
+    "effectiveDate": "2021-01-25" ,
+    "rates": [
+      {
+        "currency": "dolar amerykański" ,
+        "code": "USD" ,
+        "bid": 3.6903 ,
+        "ask": 3.7649
+      } ,
+      {
+        "currency": "dolar australijski" ,
+        "code": "AUD" ,
+        "bid": 2.8503 ,
+        "ask": 2.9079
+      } ,
+      {
+        "currency": "dolar kanadyjski" ,
+        "code": "CAD" ,
+        "bid": 2.9073 ,
+        "ask": 2.9661
+      } ,
+      {
+        "currency": "euro" ,
+        "code": "EUR" ,
+        "bid": 4.4928 ,
+        "ask": 4.5836
+      } ,
+      {
+        "currency": "forint (Węgry)" ,
+        "code": "HUF" ,
+        "bid": 0.012566 ,
+        "ask": 0.01282
+      } ,
+      {
+        "currency": "frank szwajcarski" ,
+        "code": "CHF" ,
+        "bid": 4.1703 ,
+        "ask": 4.2545
+      } ,
+      {
+        "currency": "funt szterling" ,
+        "code": "GBP" ,
+        "bid": 5.0422 ,
+        "ask": 5.1440
+      } ,
+      {
+        "currency": "jen (Japonia)" ,
+        "code": "JPY" ,
+        "bid": 0.03556 ,
+        "ask": 0.036278
+      } ,
+      {
+        "currency": "korona czeska" ,
+        "code": "CZK" ,
+        "bid": 0.1720 ,
+        "ask": 0.1754
+      } ,
+      {
+        "currency": "korona duńska" ,
+        "code": "DKK" ,
+        "bid": 0.6039 ,
+        "ask": 0.6161
+      } ,
+      {
+        "currency": "korona norweska" ,
+        "code": "NOK" ,
+        "bid": 0.4359 ,
+        "ask": 0.4447
+      } ,
+      {
+        "currency": "korona szwedzka" ,
+        "code": "SEK" ,
+        "bid": 0.4456 ,
+        "ask": 0.4546
+      } ,
+      {
+        "currency": "SDR (MFW)" ,
+        "code": "XDR" ,
+        "bid": 5.3307 ,
+        "ask": 5.4383
+      }
+    ]
+  } ,
+  {
+    "table": "C" ,
+    "no": "016/C/NBP/2021" ,
+    "tradingDate": "2021-01-25" ,
+    "effectiveDate": "2021-01-26" ,
+    "rates": [
+      {
+        "currency": "dolar amerykański" ,
+        "code": "USD" ,
+        "bid": 3.7077 ,
+        "ask": 3.7827
+      } ,
+      {
+        "currency": "dolar australijski" ,
+        "code": "AUD" ,
+        "bid": 2.8589 ,
+        "ask": 2.9167
+      } ,
+      {
+        "currency": "dolar kanadyjski" ,
+        "code": "CAD" ,
+        "bid": 2.9108 ,
+        "ask": 2.9696
+      } ,
+      {
+        "currency": "euro" ,
+        "code": "EUR" ,
+        "bid": 4.4941 ,
+        "ask": 4.5849
+      } ,
+      {
+        "currency": "forint (Węgry)" ,
+        "code": "HUF" ,
+        "bid": 0.012578 ,
+        "ask": 0.012832
+      } ,
+      {
+        "currency": "frank szwajcarski" ,
+        "code": "CHF" ,
+        "bid": 4.1715 ,
+        "ask": 4.2557
+      } ,
+      {
+        "currency": "funt szterling" ,
+        "code": "GBP" ,
+        "bid": 5.0643 ,
+        "ask": 5.1667
+      } ,
+      {
+        "currency": "jen (Japonia)" ,
+        "code": "JPY" ,
+        "bid": 0.035685 ,
+        "ask": 0.036405
+      } ,
+      {
+        "currency": "korona czeska" ,
+        "code": "CZK" ,
+        "bid": 0.1720 ,
+        "ask": 0.1754
+      } ,
+      {
+        "currency": "korona duńska" ,
+        "code": "DKK" ,
+        "bid": 0.6040 ,
+        "ask": 0.6162
+      } ,
+      {
+        "currency": "korona norweska" ,
+        "code": "NOK" ,
+        "bid": 0.4331 ,
+        "ask": 0.4419
+      } ,
+      {
+        "currency": "korona szwedzka" ,
+        "code": "SEK" ,
+        "bid": 0.4468 ,
+        "ask": 0.4558
+      } ,
+      {
+        "currency": "SDR (MFW)" ,
+        "code": "XDR" ,
+        "bid": 5.3319 ,
+        "ask": 5.4397
+      }
+    ]
+  } ,
+  {
+    "table": "C" ,
+    "no": "017/C/NBP/2021" ,
+    "tradingDate": "2021-01-26" ,
+    "effectiveDate": "2021-01-27" ,
+    "rates": [
+      {
+        "currency": "dolar amerykański" ,
+        "code": "USD" ,
+        "bid": 3.7010 ,
+        "ask": 3.7758
+      } ,
+      {
+        "currency": "dolar australijski" ,
+        "code": "AUD" ,
+        "bid": 2.8653 ,
+        "ask": 2.9231
+      } ,
+      {
+        "currency": "dolar kanadyjski" ,
+        "code": "CAD" ,
+        "bid": 2.9120 ,
+        "ask": 2.9708
+      } ,
+      {
+        "currency": "euro" ,
+        "code": "EUR" ,
+        "bid": 4.5000 ,
+        "ask": 4.5910
+      } ,
+      {
+        "currency": "forint (Węgry)" ,
+        "code": "HUF" ,
+        "bid": 0.012541 ,
+        "ask": 0.012795
+      } ,
+      {
+        "currency": "frank szwajcarski" ,
+        "code": "CHF" ,
+        "bid": 4.1704 ,
+        "ask": 4.2546
+      } ,
+      {
+        "currency": "funt szterling" ,
+        "code": "GBP" ,
+        "bid": 5.0794 ,
+        "ask": 5.1820
+      } ,
+      {
+        "currency": "jen (Japonia)" ,
+        "code": "JPY" ,
+        "bid": 0.035726 ,
+        "ask": 0.036448
+      } ,
+      {
+        "currency": "korona czeska" ,
+        "code": "CZK" ,
+        "bid": 0.1724 ,
+        "ask": 0.1758
+      } ,
+      {
+        "currency": "korona duńska" ,
+        "code": "DKK" ,
+        "bid": 0.6049 ,
+        "ask": 0.6171
+      } ,
+      {
+        "currency": "korona norweska" ,
+        "code": "NOK" ,
+        "bid": 0.4339 ,
+        "ask": 0.4427
+      } ,
+      {
+        "currency": "korona szwedzka" ,
+        "code": "SEK" ,
+        "bid": 0.4461 ,
+        "ask": 0.4551
+      } ,
+      {
+        "currency": "SDR (MFW)" ,
+        "code": "XDR" ,
+        "bid": 5.3390 ,
+        "ask": 5.4468
+      }
+    ]
+  } ,
+  {
+    "table": "C" ,
+    "no": "018/C/NBP/2021" ,
+    "tradingDate": "2021-01-27" ,
+    "effectiveDate": "2021-01-28" ,
+    "rates": [
+      {
+        "currency": "dolar amerykański" ,
+        "code": "USD" ,
+        "bid": 3.7326 ,
+        "ask": 3.8080
+      } ,
+      {
+        "currency": "dolar australijski" ,
+        "code": "AUD" ,
+        "bid": 2.8604 ,
+        "ask": 2.9182
+      } ,
+      {
+        "currency": "dolar kanadyjski" ,
+        "code": "CAD" ,
+        "bid": 2.9176 ,
+        "ask": 2.9766
+      } ,
+      {
+        "currency": "euro" ,
+        "code": "EUR" ,
+        "bid": 4.5047 ,
+        "ask": 4.5957
+      } ,
+      {
+        "currency": "forint (Węgry)" ,
+        "code": "HUF" ,
+        "bid": 0.012486 ,
+        "ask": 0.012738
+      } ,
+      {
+        "currency": "frank szwajcarski" ,
+        "code": "CHF" ,
+        "bid": 4.1899 ,
+        "ask": 4.2745
+      } ,
+      {
+        "currency": "funt szterling" ,
+        "code": "GBP" ,
+        "bid": 5.1056 ,
+        "ask": 5.2088
+      } ,
+      {
+        "currency": "jen (Japonia)" ,
+        "code": "JPY" ,
+        "bid": 0.03586 ,
+        "ask": 0.036584
+      } ,
+      {
+        "currency": "korona czeska" ,
+        "code": "CZK" ,
+        "bid": 0.1728 ,
+        "ask": 0.1762
+      } ,
+      {
+        "currency": "korona duńska" ,
+        "code": "DKK" ,
+        "bid": 0.6057 ,
+        "ask": 0.6179
+      } ,
+      {
+        "currency": "korona norweska" ,
+        "code": "NOK" ,
+        "bid": 0.4306 ,
+        "ask": 0.4394
+      } ,
+      {
+        "currency": "korona szwedzka" ,
+        "code": "SEK" ,
+        "bid": 0.4453 ,
+        "ask": 0.4543
+      } ,
+      {
+        "currency": "SDR (MFW)" ,
+        "code": "XDR" ,
+        "bid": 5.3462 ,
+        "ask": 5.4542
+      }
+    ]
+  } ,
+  {
+    "table": "C" ,
+    "no": "019/C/NBP/2021" ,
+    "tradingDate": "2021-01-28" ,
+    "effectiveDate": "2021-01-29" ,
+    "rates": [
+      {
+        "currency": "dolar amerykański" ,
+        "code": "USD" ,
+        "bid": 3.7118 ,
+        "ask": 3.7868
+      } ,
+      {
+        "currency": "dolar australijski" ,
+        "code": "AUD" ,
+        "bid": 2.8380 ,
+        "ask": 2.8954
+      } ,
+      {
+        "currency": "dolar kanadyjski" ,
+        "code": "CAD" ,
+        "bid": 2.8961 ,
+        "ask": 2.9547
+      } ,
+      {
+        "currency": "euro" ,
+        "code": "EUR" ,
+        "bid": 4.5022 ,
+        "ask": 4.5932
+      } ,
+      {
+        "currency": "forint (Węgry)" ,
+        "code": "HUF" ,
+        "bid": 0.012515 ,
+        "ask": 0.012767
+      } ,
+      {
+        "currency": "frank szwajcarski" ,
+        "code": "CHF" ,
+        "bid": 4.1790 ,
+        "ask": 4.2634
+      } ,
+      {
+        "currency": "funt szterling" ,
+        "code": "GBP" ,
+        "bid": 5.0881 ,
+        "ask": 5.1909
+      } ,
+      {
+        "currency": "jen (Japonia)" ,
+        "code": "JPY" ,
+        "bid": 0.03557 ,
+        "ask": 0.036288
+      } ,
+      {
+        "currency": "korona czeska" ,
+        "code": "CZK" ,
+        "bid": 0.1727 ,
+        "ask": 0.1761
+      } ,
+      {
+        "currency": "korona duńska" ,
+        "code": "DKK" ,
+        "bid": 0.6054 ,
+        "ask": 0.6176
+      } ,
+      {
+        "currency": "korona norweska" ,
+        "code": "NOK" ,
+        "bid": 0.4302 ,
+        "ask": 0.4388
+      } ,
+      {
+        "currency": "korona szwedzka" ,
+        "code": "SEK" ,
+        "bid": 0.4450 ,
+        "ask": 0.4540
+      } ,
+      {
+        "currency": "SDR (MFW)" ,
+        "code": "XDR" ,
+        "bid": 5.3537 ,
+        "ask": 5.4619
+      }
+    ]
+  } ,
+  {
+    "table": "C" ,
+    "no": "020/C/NBP/2021" ,
+    "tradingDate": "2021-01-29" ,
+    "effectiveDate": "2021-02-01" ,
+    "rates": [
+      {
+        "currency": "dolar amerykański" ,
+        "code": "USD" ,
+        "bid": 3.6900 ,
+        "ask": 3.7646
+      } ,
+      {
+        "currency": "dolar australijski" ,
+        "code": "AUD" ,
+        "bid": 2.8368 ,
+        "ask": 2.8942
+      } ,
+      {
+        "currency": "dolar kanadyjski" ,
+        "code": "CAD" ,
+        "bid": 2.8929 ,
+        "ask": 2.9513
+      } ,
+      {
+        "currency": "euro" ,
+        "code": "EUR" ,
+        "bid": 4.4821 ,
+        "ask": 4.5727
+      } ,
+      {
+        "currency": "forint (Węgry)" ,
+        "code": "HUF" ,
+        "bid": 0.012531 ,
+        "ask": 0.012785
+      } ,
+      {
+        "currency": "frank szwajcarski" ,
+        "code": "CHF" ,
+        "bid": 4.1527 ,
+        "ask": 4.2365
+      } ,
+      {
+        "currency": "funt szterling" ,
+        "code": "GBP" ,
+        "bid": 5.0642 ,
+        "ask": 5.1666
+      } ,
+      {
+        "currency": "jen (Japonia)" ,
+        "code": "JPY" ,
+        "bid": 0.03522 ,
+        "ask": 0.035932
+      } ,
+      {
+        "currency": "korona czeska" ,
+        "code": "CZK" ,
+        "bid": 0.1724 ,
+        "ask": 0.1758
+      } ,
+      {
+        "currency": "korona duńska" ,
+        "code": "DKK" ,
+        "bid": 0.6026 ,
+        "ask": 0.6148
+      } ,
+      {
+        "currency": "korona norweska" ,
+        "code": "NOK" ,
+        "bid": 0.4326 ,
+        "ask": 0.4414
+      } ,
+      {
+        "currency": "korona szwedzka" ,
+        "code": "SEK" ,
+        "bid": 0.4430 ,
+        "ask": 0.4520
+      } ,
+      {
+        "currency": "SDR (MFW)" ,
+        "code": "XDR" ,
+        "bid": 5.3331 ,
+        "ask": 5.4409
+      }
+    ]
+  }
+]
