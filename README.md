@@ -1,6 +1,5 @@
 # CurrencyConverter
-Java app, real time converting currency.
-
+Java application calculating the real-time currency exchange rate
 
 ## Wprowadzenie
 
